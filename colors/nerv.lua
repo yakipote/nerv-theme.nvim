@@ -1,0 +1,1 @@
+require("nerv-theme.colors.nerv").setup()

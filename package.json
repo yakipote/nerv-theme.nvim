@@ -1,0 +1,19 @@
+{
+  "name": "nerv-theme.nvim",
+  "version": "1.0.0",
+  "description": "A Neovim colorscheme inspired by the NERV console design from Neon Genesis Evangelion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neovim",
+    "nvim",
+    "theme",
+    "colorscheme",
+    "nerv",
+    "evangelion"
+  ],
+  "author": "",
+  "license": "MIT"
+}
