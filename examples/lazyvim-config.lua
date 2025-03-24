@@ -4,7 +4,7 @@
 return {
   -- Add NERV Theme
   {
-    "your-username/nerv-theme.nvim",
+    "yakipote/nerv-theme.nvim",
     lazy = false,
     priority = 1000,
     opts = {},

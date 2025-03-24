@@ -2,7 +2,7 @@
 
 A Neovim colorscheme inspired by the NERV console design from Neon Genesis Evangelion.
 
-![NERV Theme Preview](/workspace/nerv-theme-preview.png)
+![NERV Theme Preview](https://raw.githubusercontent.com/yakipote/nerv-theme.nvim/main/preview.png)
 
 ## Features
 
@@ -18,7 +18,7 @@ A Neovim colorscheme inspired by the NERV console design from Neon Genesis Evang
 
 ```lua
 {
-  "your-username/nerv-theme.nvim",
+  "yakipote/nerv-theme.nvim",
   lazy = false,
   priority = 1000,
   opts = {},
@@ -28,7 +28,7 @@ A Neovim colorscheme inspired by the NERV console design from Neon Genesis Evang
 ### Using [packer.nvim](https://github.com/wbthomason/packer.nvim)
 
 ```lua
-use "your-username/nerv-theme.nvim"
+use "yakipote/nerv-theme.nvim"
 ```
 
 ## Usage
@@ -42,7 +42,7 @@ Or in your init.lua with lazy.nvim:
 
 ```lua
 return {
-  "your-username/nerv-theme.nvim",
+  "yakipote/nerv-theme.nvim",
   lazy = false,
   priority = 1000,
   opts = {},
@@ -59,7 +59,7 @@ Add this to your LazyVim config:
 ```lua
 -- In your LazyVim config
 {
-  "your-username/nerv-theme.nvim",
+  "yakipote/nerv-theme.nvim",
   lazy = false,
   priority = 1000,
   opts = {},
